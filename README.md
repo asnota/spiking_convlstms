@@ -8,3 +8,14 @@ The  <a href="https://openreview.net/forum?id=M24Cs12Gq_A">article</a> describin
 
 The data and the code of this project are available under the MIT licence.
 
+Reference:
+```
+@inproceedings{
+shvets2023spiking,
+title={Spiking Conv{LSTM} for Semantic Music Generation},
+author={Anna Shvets},
+booktitle={The AAAI-23 Workshop on Creative AI Across Modalities},
+year={2023},
+url={https://openreview.net/forum?id=M24Cs12Gq_A}
+} ```
+
