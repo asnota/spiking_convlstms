@@ -17,5 +17,6 @@ author={Anna Shvets},
 booktitle={The AAAI-23 Workshop on Creative AI Across Modalities},
 year={2023},
 url={https://openreview.net/forum?id=M24Cs12Gq_A}
-} ```
+}
+```
 
